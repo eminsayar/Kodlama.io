@@ -20,7 +20,7 @@ public class Main {
 			System.out.println(aranacak + " mevcuttur.");
 		}
 		else {
-			System.out.println(aranacak + " mevcut değildir.");
+			System.out.println(aranacak + " mevcut deÄŸildir.");
 		}
 
 	}
